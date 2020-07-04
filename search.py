@@ -87,7 +87,7 @@ if __name__ == '__main__':
                 continue
             if args.annotatedtool and 'Tools' not in _tmpdict_keys:
                 continue
-            if args.annotatedpart and 'Word_level_parts' not in _tmpdict_keys:
+            if args.annotatedpart and 'Word_level_parts_raw' not in _tmpdict_keys:
                 continue
             jlist.append(_tmpdict)
 

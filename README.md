@@ -22,7 +22,7 @@ Here is an example of an annotated step in the dataset:
         "Order": 1,
         "Tools_annotated": ["NA"],
 		"Tools_extracted": ["NA"],
-        "Word_level_parts_raw": [{"name": "battery  ", "span": [19, 19]}],
+        "Word_level_parts_raw": [{"name": "battery", "span": [19, 19]}],
 		"Word_level_parts_clean": ["battery"],
         "Removal_verbs": [{"name": "pull out", "span": [17, 17], "part_index": [0]}], 
         "Lines":
